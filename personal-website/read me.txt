@@ -1,0 +1,5 @@
+http://barisgungor.rf.gd/
+for admin page
+http://barisgungor.rf.gd/admin/
+
+"portfolio1.sql" is a example database for the project
